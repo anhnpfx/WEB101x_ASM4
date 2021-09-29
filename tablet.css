@@ -1,0 +1,27 @@
+@media screen and (min-width: 769px) and (max-width: 991px) {
+    hr{
+        display: block;
+    }
+    h1, h2, h3, p{
+        margin-left: 5%;
+    }
+    
+    #menu {
+        background-color: rgb(56, 68, 65);
+    }
+    #menu ul li {
+        color: white;
+    }
+
+    .col-2 {
+        width: 48%;
+        display: inline-block;
+    }
+    .col-2:nth-child(2){
+        margin-left:3%;
+    }
+    #footer a{
+             
+        margin-left: 5%; 
+    }
+}
